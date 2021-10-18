@@ -16,3 +16,9 @@ It includes alot of features:
 - Max XP
 
 - v9.9.9 Game version
+
+Code written by: Phinehas Beresford (Crako)
+
+Github Account: https://github.com/Cracko298
+
+Have Fun ;)
