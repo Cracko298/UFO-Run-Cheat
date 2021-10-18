@@ -1,0 +1,7 @@
+{"c2dictionary":true,"data":{"coin_total_collected":999999999,"dist_best":999999999,"dist_best_y":385,"dist_total":999999999,"hero_hp":1,"xp_total":999999999,"current_version":"1.2.1","lang":1,"lng":"en","badge_1_temp":800,"badge_2_temp":2000,"badge_3_temp":3000,"badge_4_temp":377,"badge_5_temp":339,"badge_6_temp":809,"badge_7_temp":7500,"badge_8_temp":13500,"badge_9_temp":500,"badge_10_temp":200,"badge_11_temp":10,"badges_last_change":11,"new_badge_line":"","sound_on":1,"music_on":1}}
+
+Code written by: Phinehas Beresford (Crako)
+
+Github Account: https://github.com/Cracko298
+
+Have Fun ;)
