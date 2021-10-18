@@ -19,6 +19,9 @@ It includes alot of features:
 
 ![image](https://user-images.githubusercontent.com/78656905/137739664-2262505b-9212-4dfb-897f-8243f6f7563f.png)
 
+![image](https://user-images.githubusercontent.com/78656905/137740258-e83d20ae-3948-416f-ab27-5bfffdeb65f1.png)
+
+![image](https://user-images.githubusercontent.com/78656905/137740311-177c92f1-eddf-4e5d-b168-8303db5db859.png)
 
 Code written by: Phinehas Beresford (Crako)
 
